@@ -9,4 +9,7 @@ button { background:var(--line); color:#fff; border:0; padding:0.4rem 0.8rem; bo
 table { width:100%; border-collapse:collapse; }
 th,td { border:1px solid #aacce0; padding:0.35rem; }
 .hero-num { font-size:2rem; color: var(--line); font-weight:700; }
+.hint { color:#8a5a1a; font-size:0.9rem; }
+label { margin-right:0.75rem; }
+input { padding:0.2rem 0.4rem; }
 a { color: var(--line); }
